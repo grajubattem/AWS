@@ -1,0 +1,29 @@
+Course content
+1. Course Introduction
+2. Getting Started with AWS
+3. Introduction to Serverless Solutions
+4. AWS Lambda and Amazon DynamoDB
+5. Microservices and Web Applications
+	Demo: Build A Serverless Web App
+6. Creating Our First Lambda Function
+7. Expanding Our Knowledge with Lambda & S3
+8. Reacting to Event Streams with Lambda & Kinesis
+9. Creating Data-Driven Apps with Lambda & DynamoDB
+10. Exploring the Serverless Framework
+11. Building a Serverless Application
+12. Programming AWS Lambda with Java
+13. Programming AWS Lambda with Python
+
+
+
+The hands on labs will show you how to write Lambda functions that:
+Run when files change in S3 (eg. image thumbnail generation, metadata extraction, indexing etc)
+Run when tables are updated in DynamoDB (eg. analytics/trend detection, auditing, etc)
+Run when kinesis messages are received (eg. notification generation, message filtering, etc)
+
+
+Audience
+AWS Absolute Beginners. No prior AWS experience necessary.
+Developers who want to build micro-services
+Developers who want to build massively scalable systems
+Solution architects (not just developers) who want to understand more about Lambda
